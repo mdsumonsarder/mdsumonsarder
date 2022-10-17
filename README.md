@@ -14,7 +14,7 @@ I possess strong leadership and architectural skills with wide breadth of techni
 
 ## ✬ Skills & Experiance:
 
-● Software Applications: HRMS Software(ERP), Key Performance Indicator(KPI), E Commerce Software, Parlour Management App(ERP), Daily Expense Manager App, Real-time Restaurant App.
+● Software Applications: HRMS Software(ERP), Key Performance Indicator(KPI), SOL(Shipment Online) & CCL(Inventory Software), E Commerce Software, Parlour Management App(ERP).
 
 ● Design Languages: HTML5, CSS3, XML</br>
 ● Programming Language: C, Java, JavaScript.</br>

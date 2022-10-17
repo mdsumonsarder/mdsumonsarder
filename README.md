@@ -17,11 +17,11 @@ I possess strong leadership and architectural skills with wide breadth of techni
 ● Software Applications: HRMS Software(ERP), Key Performance Indicator(KPI), SOL(Shipment Online) & CCL(Inventory Software), E Commerce Software, Parlour Management App(ERP).
 
 ● <strong>Design Languages:</strong> HTML5, CSS3, XML, Bootstrap, Thymeleaf.</br>
-● Programming Language: C, Java EE, JavaScript.</br>
-● Frameworks: Spring MVC, Spring Boot, Android SDK.</br>
-● Library: jQuery, Retrofit.</br>
-● Database Query Language: PL/SQL, SQLite, MySQL, PostgreSQL, Oracle Database.</br>
-● Tools: Visual Studio, IntelliJ, Android Studio, Postman, Workbench, SQL developer, Toad, iReport, Jaspersoft, Git, Jira, Trello, Jenkins CI/CD.</br>
+● <strong>Programming Language:</strong> C, Java EE, JavaScript.</br>
+● <strong>Frameworks:</strong> Spring MVC, Spring Boot, Android SDK.</br>
+● <strong>Library:</strong> jQuery, Retrofit.</br>
+● <strong>Database Query Language:</strong> PL/SQL, SQLite, MySQL, PostgreSQL, Oracle Database.</br>
+● <strong>Tools:</strong> Visual Studio, IntelliJ, Android Studio, Postman, Workbench, SQL developer, Toad, iReport, Jaspersoft, Git, Jira, Trello, Jenkins CI/CD.</br>
 
 
 <img  src="https://github-readme-stats.vercel.app/api?username=mdsumonsarder&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >

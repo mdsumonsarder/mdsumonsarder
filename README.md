@@ -16,7 +16,7 @@ I possess strong leadership and architectural skills with wide breadth of techni
 
 ● Software Applications: HRMS Software(ERP), Key Performance Indicator(KPI), SOL(Shipment Online) & CCL(Inventory Software), E Commerce Software, Parlour Management App(ERP).
 
-● Design Languages: HTML5, CSS3, XML, Bootstrap, Thymeleaf.</br>
+● ##Design Languages: HTML5, CSS3, XML, Bootstrap, Thymeleaf.</br>
 ● Programming Language: C, Java EE, JavaScript.</br>
 ● Frameworks: Spring MVC, Spring Boot, Android SDK.</br>
 ● Library: jQuery, Retrofit.</br>

@@ -8,7 +8,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/mdsumonsarder)
 
-Software Engineer | Individual with well-honed skills in computer science and technical expertise in the support of specialized programming projects using web based and client server tools. Coming with strong ability to design, develop, and maintain software applications.
+Enthusiastic System Architect with 3+ years experience in developing business solutions, worked as a core developer.
 
 I possess strong leadership and architectural skills with wide breadth of technical knowledge on Database design, System engineering, System integration and migration.
 
@@ -16,12 +16,12 @@ I possess strong leadership and architectural skills with wide breadth of techni
 
 ● Software Applications: HRMS Software(ERP), Key Performance Indicator(KPI), SOL(Shipment Online) & CCL(Inventory Software), E Commerce Software, Parlour Management App(ERP).
 
-● Design Languages: HTML5, CSS3, XML</br>
-● Programming Language: C, Java, JavaScript.</br>
-● Frameworks: Bootstrap, Spring Boot, Groovy on Grails, Android Application Development.</br>
+● Design Languages: HTML5, CSS3, XML, Bootstrap, Thymeleaf.</br>
+● Programming Language: C, Java EE, JavaScript.</br>
+● Frameworks: Spring MVC, Spring Boot, Android SDK.</br>
 ● Library: jQuery, Retrofit.</br>
-● Database Query Language: PL/SQL, SQLite, MySQL, Oracle Database.</br>
-● Tools: Visual Studio, IntelliJ, Android Studio, Postman, Workbench, SQL developer, Toad, iReport, Jaspersoft.</br>
+● Database Query Language: PL/SQL, SQLite, MySQL, PostgreSQL, Oracle Database.</br>
+● Tools: Visual Studio, IntelliJ, Android Studio, Postman, Workbench, SQL developer, Toad, iReport, Jaspersoft, Git, Jira, Trello, Jenkins CI/CD.</br>
 
 
 <img  src="https://github-readme-stats.vercel.app/api?username=mdsumonsarder&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >

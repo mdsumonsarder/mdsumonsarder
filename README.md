@@ -10,7 +10,7 @@
 
 Enthusiastic System Architect with 3+ years experience in developing business solutions, worked as a core developer.
 
-I possess strong leadership and architectural skills with wide breadth of technical knowledge on Database design, System engineering, System integration and migration.
+I possess strong leadership and architectural skills with wide breadth of technical knowledge on Database Design, System Engineering, System Integration and Migration.
 
 ## ✬ Skills & Experiance:
 

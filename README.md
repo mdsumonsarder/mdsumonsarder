@@ -14,7 +14,7 @@ I possess strong leadership and architectural skills with wide breadth of techni
 
 ## ✬ Skills & Experiance:
 
-● Software Applications: HRMS Software(ERP), Key Performance Indicator(KPI), SOL(Shipment Online) & CCL(Inventory Software), E Commerce Software, Parlour Management App(ERP).
+● <strong>Software Applications:</strong> HRMS Software(ERP), Key Performance Indicator(KPI), SOL(Shipment Online) & CCL(Inventory Software), E Commerce Software, Parlour Management App(ERP).
 
 ● <strong>Design Languages:</strong> HTML5, CSS3, XML, Bootstrap, Thymeleaf.</br>
 ● <strong>Programming Language:</strong> C, Java EE, JavaScript.</br>

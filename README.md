@@ -5,10 +5,7 @@
 <g-emoji class="g-emoji" alias="microphone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a4.png">🎤</g-emoji> Like to share my knowledge <br>
 <g-emoji class="g-emoji" alias="microphone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a4.png">📧</g-emoji> sumonsarder.cse@gmail.com
 
-
-![Profile views](https://gpvc.arturio.dev/mdsumonsarder)
-
-Enthusiastic System Architect with 3+ years experience in developing business solutions, worked as a core developer.
+Enthusiastic System Architect with 5+ years experience in developing business solutions, worked as a core developer.
 
 I possess strong leadership and architectural skills with wide breadth of technical knowledge on Database Design, System Engineering, System Integration and Migration.
 
